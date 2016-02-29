@@ -1,5 +1,7 @@
 # FREE-Backup-Application
-FREE Backup Application is a console based backup application made in 'C'. Even though it has been made in 'C', a C++ compiler was used for convenience.
+FREE Backup Application backs up a given folder along with all its SUB-FOLDERS.
+
+It is a console based backup application made in 'C'. Even though it has been made in 'C', a C++ compiler was used for convenience.
 
 FREE Backup Application provides 2 methods for backup:
 
